@@ -9,4 +9,7 @@
 - İbrahim Metehan Yaman - Developer
 ### Ürün İsmi
 - MiniTaksi
+### Ürün Açıklaması
+### Ürün Özellikleri
+### Hedef Kitle
 ## Product Backlog URL 
