@@ -15,4 +15,5 @@
 - Çocuklar için özel araç koltuğu, ulaşımda konum takibi ve araç içi kamera ile çocukların güvenli seyahati güvence altına alınmaktadır. 
 ### Ürün Özellikleri
 ### Hedef Kitle
+- 6-12 yaş grubu çocuklar ve onların ebeveynleri
 ## Product Backlog URL 
