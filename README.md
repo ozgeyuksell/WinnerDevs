@@ -18,3 +18,14 @@
 - 6-12 yaş grubu çocuklar ve onların ebeveynleri
 ## Product Backlog URL 
 [Flutter Team 91 Trello Backlog Board](https://trello.com/b/T2ouExzT/project-management) 
+
+## 1. Sprint
+
+-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+-Daily Scrum: Daily Scrum toplantıları genel olarak Whatsapp üzerinden yapılsa da hafta da bir meeting yapılmasına da  karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: <img width="411" alt="Ekran görüntüsü 2023-06-17 192957" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/f6d355ea-5e34-4c68-b892-2b66dd6edf48">
+
+
+-Sprint board update: Sprint board screenshotları:
