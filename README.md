@@ -37,3 +37,7 @@
 <img width="960" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/e7c203ad-0e5e-4245-9735-b5dd96a02263">
 <img width="945" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/6b837622-d607-407f-8f39-9f0f29807723">
 
+-**Sprint Review:**
+Yapılan toplantıda uygulamamızı geliştirirken dikkat etmemiz gereken noktaları konuştuk. Uygulama ile ilgili gelişebilecek bir takım sorunları önceden düşünerek konu hakkında fikir alışverişi yaptık. Konu hakkındaki kaygılar kullanıcılar içinde geçerli mi sorusunu düşünerek bir anket oluşturduk ve çevremizdeki insanlara yöneltmeye başladık.
+-**Sprint Retrospective:**
+Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına denk gelen bir süreç olduğu için diğer sprintlerde daha aktif ilerleneceği belirtilmiştir.
