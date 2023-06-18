@@ -26,10 +26,14 @@
 -**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 -**Daily Scrum:** Daily Scrum toplantıları genel olarak Whatsapp üzerinden yapılsa da zaman buldukça meeting yapılmasına da  karar verilmiştir. Daily Scrum toplantısı örneği ss olarak ve aşağıda verilen link şeklinde Readme'de detaylı olarak tarafımızdan paylaşılmaktadır:
-[DailyScrumMeetingNotes1.Sprint](https://drive.google.com/drive/folders/1otlBOsuD1yUD7VEnAAOpI7aM45D3Y8x0?usp=drive_link)
+[Daily Scrum Meeting Notes 1.Sprint](https://drive.google.com/drive/folders/1otlBOsuD1yUD7VEnAAOpI7aM45D3Y8x0?usp=drive_link)
 
 
 <img width="411" alt="Ekran görüntüsü 2023-06-17 192957" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/f6d355ea-5e34-4c68-b892-2b66dd6edf48"> 
 
 
 -**Sprint board update: Sprint board screenshotları:**
+<img width="957" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/4be273a0-bebb-4d0e-883b-772383a4c972">
+<img width="960" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/e7c203ad-0e5e-4245-9735-b5dd96a02263">
+<img width="945" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/6b837622-d607-407f-8f39-9f0f29807723">
+
