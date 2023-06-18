@@ -39,5 +39,7 @@
 
 -**Sprint Review:**
 Yapılan toplantıda uygulamamızı geliştirirken dikkat etmemiz gereken noktaları konuştuk. Uygulama ile ilgili gelişebilecek bir takım sorunları önceden düşünerek konu hakkında fikir alışverişi yaptık. Konu hakkındaki kaygılar kullanıcılar içinde geçerli mi sorusunu düşünerek bir anket oluşturduk ve çevremizdeki insanlara yöneltmeye başladık.
+
+
 -**Sprint Retrospective:**
 Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına denk gelen bir süreç olduğu için diğer sprintlerde daha aktif ilerleneceği belirtilmiştir.
