@@ -25,7 +25,7 @@
 
 -**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
--**Daily Scrum:** Daily Scrum toplantıları genel olarak Whatsapp üzerinden yapılsa da zaman buldukça meeting yapılmasına da  karar verilmiştir. Daily Scrum toplantısı örneği ss olarak Readme'de ve Project Management dosyası içinde detaylı olarak tarafımızdan paylaşılmaktadır:
+-**Daily Scrum:** Daily Scrum toplantıları genel olarak Whatsapp üzerinden yapılsa da zaman buldukça meeting yapılmasına da  karar verilmiştir. Daily Scrum toplantısı örneği ss olarak ve aşağıda verilen link şeklinde Readme'de detaylı olarak tarafımızdan paylaşılmaktadır:
 [DailyScrumMeetingNotes1.Sprint](https://drive.google.com/drive/folders/1otlBOsuD1yUD7VEnAAOpI7aM45D3Y8x0?usp=drive_link)
 
 
