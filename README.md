@@ -69,6 +69,8 @@ Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına den
 <img width="227" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/6082c828-368e-47be-93cb-e27673b694cd">
 <img width="178" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/f902ddfc-7d64-49ba-84ac-ec1c92e92df6">
 <img width="186" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/d75d0bb8-cadc-4161-be84-f37c99ec39d9">
+<img width="179" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/ce5ac28d-d6c5-486e-a892-a1b57319b37a">
+
 
 
 
