@@ -57,13 +57,15 @@ Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına den
 <img width="550" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/0416704f-7e26-469a-9a3f-36be6e481374">
 
 -**Sprint board update: Sprint board screenshotları:**
+
 {Çalışmamızın anket verileri](https://drive.google.com/drive/folders/1v_bvEovBV3mLbFBoje5pdsjgCw2JmVdL)
 
-![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/2a17d11a-9cc0-4948-acfe-982e3ca2e119)
+<img width="240" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/597f12a6-d729-4c26-8185-a016562653d2">
 <img width="262" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/688a5f79-27a5-4162-bf5d-1281c7340758">
-![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/4db644ec-7585-431a-a1a0-43d632efca28)
-![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/523789d5-1f81-4654-bc65-8a61b1597636)
-![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/524b68c1-4432-4cba-8f54-18bf3c59da83)
+<img width="230" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/269c3ffc-a347-4675-8e6f-cde2776ec97e">
+<img width="256" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/9b9de853-ac9c-40b1-9463-b08aa92ae4f8">
+<img width="227" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/6082c828-368e-47be-93cb-e27673b694cd">
+
 
 
 
