@@ -58,6 +58,9 @@ Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına den
 
 -**Sprint board update: Sprint board screenshotları:**
 
+![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/796b2520-a640-4a71-a9f6-b8386da33e52)
+![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/68fdf85d-e388-4213-a9e4-f4a20daf310f)
+
 [Çalışmamızın anket verileri](https://drive.google.com/drive/folders/1v_bvEovBV3mLbFBoje5pdsjgCw2JmVdL)
 
 -**Ürün Durumu:**
@@ -80,3 +83,6 @@ Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına den
 
 -**Sprint Retrospective:**
 -Çalışmalarımıza aynı şekilde devam ederek ürünümüzü en iyi şekilde çıkarmak için çalışılacağı belirtilmiştir.
+
+## Product Backlog URL 
+[Flutter Team 91 Trello Backlog Board](https://trello.com/b/T2ouExzT/project-management) 
