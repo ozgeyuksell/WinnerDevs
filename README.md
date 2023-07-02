@@ -62,16 +62,14 @@ Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına den
 
 -**Ürün Durumu:**
 
-<img width="240" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/597f12a6-d729-4c26-8185-a016562653d2">
-<img width="262" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/688a5f79-27a5-4162-bf5d-1281c7340758">
-<img width="230" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/269c3ffc-a347-4675-8e6f-cde2776ec97e">
-<img width="256" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/9b9de853-ac9c-40b1-9463-b08aa92ae4f8">
-<img width="227" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/6082c828-368e-47be-93cb-e27673b694cd">
-<img width="178" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/f902ddfc-7d64-49ba-84ac-ec1c92e92df6">
-<img width="186" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/d75d0bb8-cadc-4161-be84-f37c99ec39d9">
-<img width="179" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/ce5ac28d-d6c5-486e-a892-a1b57319b37a">
-
-
+![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/2387a0a5-868d-47a5-8a14-2d34ed383865)
+![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/a60bf516-9c4a-4805-adca-7bda4fd48051)
+![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/f9d0b66b-333a-46de-854c-ff8c5b946ced)
+![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/5483585c-1260-4125-b18a-6c9799ba055f)
+![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/2e8ea759-cea1-4188-b5b2-3ab567d3caa5)
+![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/382c13b5-e0c0-43f6-90e5-2d3eb48caa48)
+![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/4b4f48ff-4ffb-41c9-85dc-7509794dcacb)
+![image](https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/b49e7515-fad7-416c-b42c-16edb3e6083e)
 
 
 
