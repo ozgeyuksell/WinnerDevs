@@ -78,7 +78,7 @@ Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına den
 
 
 -**Sprint Review:**
- -Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. Sprint Review katılımcıları: Ece Kurşun,Doğa Kantarcı,Özge Yüksel,Mustafa Emre Bir,İbrahim Metehan Yaman
+ -Arayüzün mock up'ı yapılmıştır ve eksiklikleri değerlendirilmiştir. Sprint Review katılımcıları: Ece Kurşun,Doğa Kantarcı,Özge Yüksel,Mustafa Emre Bir,İbrahim Metehan Yaman
 
 
 -**Sprint Retrospective:**
