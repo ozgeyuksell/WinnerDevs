@@ -43,3 +43,21 @@ Yapılan toplantıda uygulamamızı geliştirirken dikkat etmemiz gereken noktal
 
 -**Sprint Retrospective:**
 Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına denk gelen bir süreç olduğu için diğer sprintlerde daha aktif ilerleneceği belirtilmiştir.
+
+## 2.Sprint
+
+-**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
+
+-**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+-**Daily Scrum:** Daily Scrum toplantıları genel olarak Whatsapp üzerinden yapılsa da zaman buldukça meeting yapılmasına da  karar verilmiştir. Daily Scrum toplantısı örneği ss olarak ve aşağıda verilen link şeklinde Readme'de detaylı olarak tarafımızdan paylaşılmaktadır:
+
+
+
+-**Sprint Review:**
+
+
+
+-**Sprint Retrospective:**
+
+
