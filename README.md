@@ -61,6 +61,7 @@ Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına den
 [Çalışmamızın anket verileri](https://drive.google.com/drive/folders/1v_bvEovBV3mLbFBoje5pdsjgCw2JmVdL)
 
 -**Ürün Durumu:**
+
 <img width="240" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/597f12a6-d729-4c26-8185-a016562653d2">
 <img width="262" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/688a5f79-27a5-4162-bf5d-1281c7340758">
 <img width="230" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/269c3ffc-a347-4675-8e6f-cde2776ec97e">
