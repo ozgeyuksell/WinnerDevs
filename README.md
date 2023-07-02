@@ -52,6 +52,10 @@ Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına den
 
 -**Daily Scrum:** Daily Scrum toplantıları genel olarak Whatsapp üzerinden yapılsa da zaman buldukça meeting yapılmasına da  karar verilmiştir. Daily Scrum toplantısı örneği ss olarak ve aşağıda verilen link şeklinde Readme'de detaylı olarak tarafımızdan paylaşılmaktadır:
 
+[Sprint 2 Daily Scrum Chats](https://drive.google.com/drive/folders/1KGhk1uRnaUQiT-iGNA3NW4MIltJLrjAe)
+
+<img width="550" alt="image" src="https://github.com/ozgeyuksell/WinnerDevs/assets/136381223/0416704f-7e26-469a-9a3f-36be6e481374">
+
 
 
 -**Sprint Review:**
