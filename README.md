@@ -86,3 +86,22 @@ Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına den
 
 ## Product Backlog URL 
 [Flutter Team 91 Trello Backlog Board](https://trello.com/b/T2ouExzT/project-management) 
+
+
+## 3. Sprint
+
+-**Sprint içinde tamamlanması tahmin edilen puan:** 140 Puan
+
+-**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'in 140 olmasına karar verilmiştir.
+
+-**Daily Scrum:** Daily Scrum toplantıları genel olarak Whatsapp üzerinden yapılsa da zaman buldukça meeting yapılmasına da  karar verilmiştir. Daily Scrum toplantısı örneği ss olarak ve aşağıda verilen link şeklinde Readme'de detaylı olarak tarafımızdan paylaşılmaktadır.
+
+-**Sprint board update: Sprint board screenshotları:**
+
+-**Sprint Review:**
+ Toplantılarımızda uygulamamızla ilgili sorunları tartıştık. Tasarım hakkında konuştuk.Uygulamanın gidişatı hakkında konuştuk.
+-**Sprint Retrospective:**
+-Projemizi yardımlaşarak ve bol bol iletişim kurarak geliştirdik. Tüm ekibimize teşekkürler. 
+## Product Backlog URL 
+[Flutter Team 91 Trello Backlog Board](https://trello.com/b/T2ouExzT/project-management) 
+
