@@ -105,4 +105,4 @@ Genel olarak süreç güzel ilerlemiştir. Ancak ekibimizin final haftasına den
 ## Product Backlog URL 
 [Flutter Team 91 Trello Backlog Board](https://trello.com/b/T2ouExzT/project-management) 
 
-## NOT: Projenin teslim aşamasındayken taksicilerle anlaşılamadığı için ve yasal mevzuat uygun olmadığı için proje tümüyle değişmiştir.
+## NOT: Projenin teslim aşamasındayken taksicilerle anlaşılamadığı için ve yasal mevzuat uygun olmadığı için proje yenilenmiştir.
